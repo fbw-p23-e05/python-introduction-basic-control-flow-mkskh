@@ -1,3 +1,13 @@
+# part 2 (24.08)
+
+sum = 0
+
+for i in range(3):
+    sum += int(input('Enter number: ')) 
+print('Sum of the numbers: ', sum)
+
+
+
 # part 1 (23.08)
 
 # num1 = int(input('Enter number: '))
@@ -9,10 +19,3 @@
 
 
 
-# part 2 (24.08)
-
-sum = 0
-
-for i in range(3):
-    sum += int(input('Enter number: ')) 
-print('Sum of the numbers: ', sum)
