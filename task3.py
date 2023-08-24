@@ -1,3 +1,16 @@
+# par 2 (24.08)
+
+list = []
+
+for i in range(5):
+    tempList = []
+    tempList = int(input('Enter number: '))
+    list.append (tempList)
+print('Maximum of the numbers: ', max(list))
+
+
+# part 1 (23.08)
+
 # num1 = int(input('Enter number: '))
 # num2 = int(input('Enter number: '))
 # num3 = int(input('Enter number: '))
@@ -9,10 +22,3 @@
 
 
 
-list = []
-
-for i in range(5):
-    tempList = []
-    tempList = int(input('Enter number: '))
-    list.append (tempList)
-print('Maximum of the numbers: ', max(list))
